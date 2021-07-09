@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "What is Platform Engineering"
+date:   2021-07-08 23:59:03 +0100
+categories: jekyll update
+---
+Platform Engineering is a discipline which involves doing whatever it takes (both technical and non technical) to build, maintain and provide a curated platform experience for all the communities using it (Traditional Engineering Teams, Data Analysts & Scientists, Leadership & Governance).
+
+It's not the same as DevOps. If you want to host a new website you need [DevOps]. If you need a system for hosting websites, you need the [Platform Engineer]s.
+
+Infrastructure as Code (IaC) plays a part in a platform engineering team's job. Instead of manually configuring infrastructure, IaC does it by speeding things up and reducing chances for error. The platform engineering team can create an API that lets application developers avoid having to know what IaC frameworks exist.
+
+A Platform Engineer should built platforms with
+
+##### - Clear Boundaries & Responsibilities
+
+##### - Self Service & Automation
+
+##### - Flexible & Evolvable
+
+##### - Reliable
+
+[DevOps]: https://jekyllrb.com/docs/home
+[Platform Engineer]:   https://github.com/jekyll/jekyll
