@@ -1,0 +1,2 @@
+# scblog
+jekyll blog page
